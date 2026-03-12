@@ -1,1 +1,1 @@
-# web-development
+# web開発で汎用的に必要な情報をここに記録する
